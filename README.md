@@ -36,6 +36,10 @@ This repository contains solutions to leetcode problems that I solve with time a
 ### Backtracking
 
 ### DP - 1D
+| Question | Time Complexity | Space Comlexity|
+| - | - | - |
+| [House Robber](./DP_1D/House_Robber/code.py) | O(N) | O(N) |
+
 
 ### DP - Multidimensional
 
