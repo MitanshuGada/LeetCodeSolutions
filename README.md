@@ -17,6 +17,10 @@ This repository contains solutions to leetcode problems that I solve with time a
 ### Prefix Sum
 
 ### Hash Map/Set
+| Question | Time Complexity | Space Comlexity|
+| - | - | - |
+| [ 1930 Unique Length 3 Palindromic Subsequences](./Hash_Map_Set/Unique_Length_3_Palindromic_Subsequences/code.py) | O(N) | O(N) |
+
 
 ### Stack
 
