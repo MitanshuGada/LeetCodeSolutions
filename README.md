@@ -57,5 +57,8 @@ This repository contains solutions to leetcode problems that I solve with time a
 ### Trie
 
 ### Intervals
+| Question | Time Complexity | Space Comlexity|
+| - | - | - |
+| [435 Non Overlapping Intervals](./Intervals/Non_Overlapping_Intervals/code.py) | O(N log(N)) | O(1) |
 
 ### Monotonic Stack
