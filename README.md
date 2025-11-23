@@ -6,6 +6,7 @@ This repository contains solutions to leetcode problems that I solve with time a
 | Question | Time Complexity | Space Comlexity|
 | - | - | - |
 | [757. Set Intersection Size At Least Two](./Array_String/Set_Intersection_Size_At_Least_Two/code.py) | O(N log(N)) | O(1) |
+| [1262. Greatest Sum Divisible by Three](./Array_String/Greatest_Sum_Divisible_By_Three/code.py)| O(N) | O(1) |
 
 ### Two Pointers
 | Question | Time Complexity | Space Comlexity|
