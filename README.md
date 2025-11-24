@@ -54,7 +54,9 @@ This repository contains solutions to leetcode problems that I solve with time a
 ### DP - Multidimensional
 
 ### Bit Manipulation
-
+| Question | Time Complexity | Space Comlexity|
+| - | - | - |
+| [338. Counting Bits](./Bit_Manipulation/Counting_Bits/code.py) | O(N) | O(1) |
 ### Trie
 
 ### Intervals
