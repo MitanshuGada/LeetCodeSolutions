@@ -37,6 +37,9 @@ This repository contains solutions to leetcode problems that I solve with time a
 ### Binary Search Tree
 
 ### Graphs - DFS
+| Question | Time Complexity | Space Comlexity|
+| - | - | - |
+| [298. Binary Tree Longest Consecutive Sequence](./DFS/Binary_Tree_Longest_Consecutive_Sequence/)| O(N) | O(N) |
 
 ### Graphs - BFS
 
@@ -58,6 +61,7 @@ This repository contains solutions to leetcode problems that I solve with time a
 | Question | Time Complexity | Space Comlexity|
 | - | - | - |
 | [338. Counting Bits](./Bit_Manipulation/Counting_Bits/code.py) | O(N) | O(1) |
+
 ### Trie
 
 ### Intervals
